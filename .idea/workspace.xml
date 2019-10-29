@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ed1048c-7949-495d-88d8-bda937079948" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/navbar.ftl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/MvcConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/config/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/domain/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/main.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/main.ftl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/parts/common.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/parts/common.ftl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -125,7 +119,8 @@
       <updated>1571505733714</updated>
       <workItem from="1572270812104" duration="283000" />
       <workItem from="1572318739870" duration="9237000" />
-      <workItem from="1572339339195" duration="3274000" />
+      <workItem from="1572339339195" duration="5998000" />
+      <workItem from="1572363257617" duration="320000" />
     </task>
     <task id="LOCAL-00001" summary="Add data base">
       <created>1571572246303</created>
@@ -155,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572325118463</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Spring Boot MVC: загрузка файлов на сервер и раздача статики">
+      <created>1572342647967</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572342647967</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +181,8 @@
     <MESSAGE value="Add data base finally" />
     <MESSAGE value="Add registration and authentication user" />
     <MESSAGE value="Add admin panel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add admin panel" />
+    <MESSAGE value="Spring Boot MVC: загрузка файлов на сервер и раздача статики" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring Boot MVC: загрузка файлов на сервер и раздача статики" />
   </component>
   <component name="WindowStateProjectService">
     <state x="677" y="178" key="#Application" timestamp="1571558841997">
